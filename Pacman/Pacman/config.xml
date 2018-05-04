@@ -1,0 +1,40 @@
+<root>
+  <engine>
+    <window>
+      abc
+      <size></size>
+      <position></position>
+    </window>
+    <font>
+      <size></size>
+      <color></color>
+    </font>
+    <clock>
+      <gameLoopDelay></gameLoopDelay>
+      <tickDelay></tickDelay>
+    </clock>
+  </engine>
+  <game>
+    <settings>
+      <audio>
+        <active></active>
+      </audio>
+      <graphics>
+        
+      </graphics>
+      <controls>
+        <keybindings>
+          
+          
+               Hallo ich bin ein Text!   
+               sdasdsdsd
+               asd
+               
+        </keybindings>
+        <mouse>
+          <sensibility></sensibility>
+        </mouse>
+      </controls>
+    </settings>
+  </game>
+</root>
